@@ -195,8 +195,8 @@ span.post-name a,span.post-read-more a:hover {
 	cursor:pointer;
 }
 .mediumnavigation .navbar-brand img {
-	max-height:30px;
-	margin-right:5px;
+	max-height:50px;
+	margin-right:50px;
 }
 .mainheading h1.sitetitle {
 	font-family:Righteous;
